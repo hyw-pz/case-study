@@ -5,6 +5,8 @@
 **Source**
 Destatis Table 31111-0120, downloaded from GENESIS-Online. The raw file contains 177,408 rows covering January–December 2026, with published data for January–March 2026 and future placeholders for the remaining months.
 
+[Dataset](https://drive.google.com/file/d/1w4VA1w9KUJSp5GnSH-zcGnVYSwZhoMgR/view?usp=drive_link)
+
 **Filtering**
 Three conditions are applied to isolate the target indicator — new residential dwelling permits by Bundesland:
 - `4_variable_attribute_code == BTK-GEB-NEU` — new construction only, excludes renovations and extensions
