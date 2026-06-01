@@ -29,6 +29,7 @@ The raw file uses a generic numbered-column schema. The following mappings are a
 | `value_unit` | `unit` | e.g. `number` |
 
 Columns containing only fixed repeated values (`N_variable_code`, `N_variable_label`) are dropped.
+<img width="911" height="2227" alt="column_mapping" src="https://github.com/user-attachments/assets/7a120692-e56c-400c-9ce6-46621e594a86" />
 
 **Quality flags**
 The raw `value` column contains non-numeric sentinel values. These are handled as follows:
